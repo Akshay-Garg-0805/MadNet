@@ -1,6 +1,5 @@
-streamlit
-scapy
-tensorflow
-numpy
-pandas
-matplotlib
+streamlit==1.46.1
+scapy==2.6.1
+tensorflow-cpu==2.12.0
+numpy==1.24.3
+
